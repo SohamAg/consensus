@@ -65,9 +65,7 @@ src/
 ### Database Schema (`src/db/schema.sql`)
 
 **Supabase Tables:**
-1. **`rooms`** - Chat rooms (topic, character, participants)
-2. **`messages`** - All chat messages (username, text, timestamp)
-3. **`interventions`** - AI intervention logs (type, mood, context)
+Keeping track of everything for further analysis.
 
 ---
 
