@@ -341,7 +341,3 @@ Displayed as **absolute positioned** purple cards:
 - Verify LETTA_API_KEY and LETTA_AGENT_ID are set
 - Check Letta dashboard for agent status
 - Review terminal logs for API errors
-
----
-
-**Built with** ❤️ **for Cal Hacks 2047**
