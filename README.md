@@ -2,7 +2,7 @@
 
 **AI-powered multiplayer chat with intelligent conversation facilitation**
 
-Consensus is a real-time collaborative chat platform that uses **Letta AI** for intelligent decision-making and **Janitor AI** for character-based agent conversations to guide discussions toward a productive consensus.
+Consensus is a real-time collaborative chat platform that uses **Letta AI** for intelligent decision-making and **Janitor AI** for character-based and mood-adaptive agent conversations to guide discussions toward a productive consensus.
 
 ---
 
