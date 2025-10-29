@@ -128,10 +128,10 @@ Your Letta agent should have these **tools** configured:
 - Uses Bearer token authentication
 
 **Character Prompts:**
-The system generates character-specific prompts for:
-- **Dolly Parton**: Southern charm, warm encouragement
-- **Jack Sparrow**: Pirate wisdom, adventurous
-- **Gordon Ramsay**: Direct, constructive feedback
+The system generates character-specific prompts for several known characters depending on the topic
+
+**Mood/Tone/Context:**
+Depending on the context of the conversation, the agent continually adapts the mood/tone of speech, but in the style of the same character
 
 **Response Format:**
 ```json
